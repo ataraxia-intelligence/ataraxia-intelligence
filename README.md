@@ -11,10 +11,10 @@ Our work focuses on Deep Learning, large language models (LLMs), multimodal deci
 
 Ataraxia Intelligence originates from projects within the Department of Urology at University Hospital Dresden, including:
 
-- Fine-tuning large language models on **12,000+ pre-therapeutic prostate cancer tumor board cases** to generate AI-assisted treatment recommendations. :contentReference[oaicite:0]{index=0}  
-- Comparative development of classical ML models and modern LLM-based pipelines for diagnostic and therapeutic decision support. :contentReference[oaicite:1]{index=1}  
-- Creation of a structured **renal tumor / RCC database** for future multimodal AI development. :contentReference[oaicite:2]{index=2}  
-- Planning and documentation of data pipelines, anonymization workflows and model evaluation frameworks. :contentReference[oaicite:3]{index=3}  
+- Fine-tuning large language models on **12,000+ pre-therapeutic prostate cancer tumor board cases** to generate AI-assisted treatment recommendations.
+- Comparative development of classical ML models and modern LLM-based pipelines for diagnostic and therapeutic decision support.
+- Creation of a structured **renal tumor / RCC database** for future multimodal AI development.
+- Planning and documentation of data pipelines, anonymization workflows and model evaluation frameworks.
 
 Our long-term vision is a multimodal medical AI system that integrates text, imaging and—later—genomics to support individualized cancer care.
 
